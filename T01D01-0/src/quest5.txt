@@ -1,0 +1,4 @@
+1. cd ./door_management_files/door_configuration
+2. nano door_1.conf
+3. Исправил CLOSE на OPEN
+4. control+x
